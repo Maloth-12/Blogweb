@@ -1,0 +1,8 @@
+package com.example.demo.service;
+
+import com.example.demo.entity.comment;
+
+public interface CommentService {
+
+	comment createComment(Long postId,String postedBy, String content);
+}

@@ -1,0 +1,22 @@
+.card-container {
+    margin: 16px;
+    max-width: 60%;
+    padding-bottom: 30px;
+}
+mat-card {
+    padding: 10px;
+}
+.example-header-image {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fgreenery%2F&psig=AOvVaw2voka1mjHlxAmB68Z8Krbs&ust=1713900458164000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjI9PHG1oUDFQAAAAAdAAAAABAE');
+    background-size: cover;
+}
+mat-card-footer {
+    margin-left: 20px;
+
+}
+.post-img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 15px;
+}
